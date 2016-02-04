@@ -128,7 +128,7 @@ describe TABLE
 	DESC purchases
 
 |Field|Type|Null|Key|Default|Extra|
-|--------|--------|
+|--------|--------|--------|--------|--------|--------|
 |id				|int(11)		|NO	 |	PRI	|NULL	|auto_increment|
 |total_value	|double			|YES	||	NULL	||
 |purchase_date	|date			|YES	||	NULL	||
