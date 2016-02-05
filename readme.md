@@ -2,11 +2,11 @@
 
 ### Naming Conventions
 
-Avoid using names like "FirstName" or "All Employees".
-Ex: Use Lowercase: first_name, not "First_Name".
-Ex: Use Underscores separate words: word_count or team_member_id, not wordcount or wordCount.
-Ex: Use Full words, not abbreviations: middle_name, not mid_nm.
-Ex: Avoid using reserved words like user, lock, or table.
+- Avoid using names like "FirstName" or "All Employees".
+- Ex: Use Lowercase: first_name, not "First_Name".
+- Ex: Use Underscores separate words: word_count or team_member_id, not wordcount or wordCount.
+- Ex: Use Full words, not abbreviations: middle_name, not mid_nm.
+- Ex: Avoid using reserved words like user, lock, or table.
 
 ### Simple commands
 connect
