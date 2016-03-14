@@ -480,3 +480,7 @@ SELECT LIKE
 ## Restore dump file
 
 	mysql -u root -p < path\to\file\file-dump.sql
+	
+	
+## Create database sgd
+	mysql -u root -p -e "create database sgd"
